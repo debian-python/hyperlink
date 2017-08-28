@@ -9,7 +9,7 @@ Build-Depends: debhelper (>= 9),
                python-setuptools (>= 0.6b3),
                python3-all,
                python3-setuptools (>= 0.6b3)
-Standards-Version: 3.9.8
+Standards-Version: 4.0.0
 Homepage: https://github.com/python-hyper/hyperlink
 Vcs-Browser: https://anonscm.debian.org/cgit/python-modules/packages/hyperlink.git
 Vcs-Git: git://anonscm.debian.org/python-modules/packages/hyperlink.git
